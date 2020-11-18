@@ -47,3 +47,4 @@ elif kue == "2":
 #InvalidInput
 else:
     print("\nInput yang anda masukkan salah!")
+#End
